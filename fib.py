@@ -1,6 +1,6 @@
 '''
 Making the Fibonacci Sequence faster and efficient
-Using recursion and memoization 
+Using recursion and memorization 
 '''
 
 fibonacci_cache = dict()
